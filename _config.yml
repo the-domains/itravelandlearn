@@ -1,0 +1,28 @@
+name: itravelandlearn
+favicon: null
+layout_spectrum: 0.8991430071182549
+typography_spectrum: 0.08179147425107658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7465569553896785
+  lightness: 0.7586114096920937
+  saturation: 0.2148118584882468
+  rhythmicContrast: 0.21489615854807198
+purpose: []
